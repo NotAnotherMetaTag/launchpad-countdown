@@ -5,15 +5,15 @@ body {
     color: #ad0000;
     font-family: 'Orbitron', sans-serif;
     margin-left: 10em;
-    margin-bottom: 2em;
+    /*margin-bottom: 1em; */
 }
 
 h3 {
-    padding-left: 4em;
-    font-size: 6em;
+    padding-left: 7.5em;
+    font-size: 10em;
 }
 
 p {
-    padding: 20px, 50px;
-    font-size: 12em;
+    margin-top: -.25em;
+    font-size: 24em;
 }
